@@ -1,4 +1,4 @@
 # SiamRPN-PyTorch
 siamrpn pytorch
 #### Reference
-https://github.com/Githubwujinming/SiamRPN-PyTorch.git
+https://github.com/HelloRicky123/Siamese-RPN
